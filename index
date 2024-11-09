@@ -1,13 +1,15 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>food deserts and food insecuity</title>
+        <title>Food deserts and food insecuity</title>
+        
     </head>
     <body>
-        <h1>food deserts and food insecuity</h1>
-        <h2>Introduction</h2>
-        <p>There is considerable food inequality in the U.S., even though the country is one of the wealthiest in the world. Many people and communities still have difficulties accessing healthy food, whether due to the type of food they have access to or the lack of food. Many people face food insecurity and live in places defined as food deserts</p>
-
+        <header>
+            <h1>food deserts and food insecuity</h1>
+            <h2>Introduction</h2>
+            <p>There is considerable food inequality in the U.S., even though the country is one of the wealthiest in the world. Many people and communities still have difficulties accessing healthy food, whether due to the type of food they have access to or the lack of food. Many people face food insecurity and live in places defined as food deserts</p>
+        </header>
         <h2>food insecuity</h2>
         <h3>what is food insecuity?</h3>
         <p>Food insecurity is defined as a condition in which a household has limited access to food for daily life. According to statistics gathered by the census, on average, 32% of households below the poverty line suffer from Food insecurity.
