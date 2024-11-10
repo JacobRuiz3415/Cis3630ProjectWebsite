@@ -1,2 +1,2 @@
 # Cis3630ProjectWebsite
-link:
+link: https://jacobruiz3415.github.io/Cis3630ProjectWebsite/
